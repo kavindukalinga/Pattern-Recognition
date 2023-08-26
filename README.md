@@ -1,6 +1,10 @@
 # Pattern-Recognition
 Pattern Recognition in the context of Machine Learning tasks related to In20-S5-EN3150 - Pattern Recognition offered by ENTC - University of Moratuwa
 
+## Machine learning glossary
+
+Click https://developers.google.com/machine-learning/glossary/ link to open resource.
+
 ## Software Tools
 
 > Python programming language (https://www.python.org/) 
